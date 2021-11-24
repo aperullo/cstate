@@ -165,9 +165,11 @@ params:
     - name: API
       description: The guts of the application.
       category: Uncategorized
+      link: https://example.com
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Uncategorized
+      link: https://example.net
 
   # What date format to use?
   #
